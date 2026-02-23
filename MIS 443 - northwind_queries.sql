@@ -18,11 +18,13 @@ You must join:
 •	orders
 •	customers
 Expected skills: INNER JOIN, foreign keys */
+
 SELECT order_id, company_name, order_date
 FROM orders
 INNER JOIN customers USING (customer_id);
 
 --Q3: Top 3 most customer brought
+
 SELECT 
     customer_id, 
     COUNT(order_id) AS num_bought
@@ -30,5 +32,6 @@ FROM orders
 GROUP BY customer_id
 ORDER BY num_bought DESC -- ASC it nhat
 LIMIT 3;
+
 
 
