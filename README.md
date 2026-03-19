@@ -1,4 +1,4 @@
-# 📊 CRM SQL Analysis & BI Dashboard
+# 📊 CRM SQL Analysis & Python Program
 
 ### 📘 Course: MIS 443 – Business Data Management
 
