@@ -150,13 +150,3 @@ This project demonstrates how SQL and Python can transform CRM data into actiona
 * Apply predictive analytics
 
 ---
-
-## 📂 Repository Structure
-
-```
-├── data/
-├── sql/
-├── python/
-├── charts/
-├── README.md
-```
