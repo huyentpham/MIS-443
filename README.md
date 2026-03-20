@@ -149,4 +149,9 @@ This project demonstrates how SQL and Python can transform CRM data into actiona
 * Enable real-time data updates
 * Apply predictive analytics
 
+## Reference
+
+* Source: kaggel-(CRM Sales)
+https://github.com/CodeWithGauravRajput/CRM-SQL-Analysis_and_BI-Dashboard
+
 ---
